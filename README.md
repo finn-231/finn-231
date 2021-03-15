@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @finn-231
-- 👀 I’m interested in linux, python, system integration for businesses and economic purposes
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ---
+#- 👀 I’m interested in linux, python, system integration for businesses and economic purposes
+#- 🌱 I’m currently learning python
+#- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me social.finn.waehlt@icloud.com
 
 <!---
